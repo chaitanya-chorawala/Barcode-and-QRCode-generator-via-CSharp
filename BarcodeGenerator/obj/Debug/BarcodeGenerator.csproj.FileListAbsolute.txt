@@ -1,0 +1,17 @@
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeLib.Barcode.WinForms.dll
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\IronBarCode.dll
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\Newtonsoft.Json.dll
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\OnBarcode.Barcode.WinForms.dll
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\QRCoder.dll
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\IronBarCode.xml
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\bin\Debug\Newtonsoft.Json.xml
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.frmBarcode.resources
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.frmQRCode.resources
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+E:\BarcodeGeneratorApplication\Application\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
